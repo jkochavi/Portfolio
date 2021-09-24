@@ -22,10 +22,10 @@
 * @section s_tricorder ESP32 Tricorder
 * The Tricorder is one of the most developed technological concepts produced by the Star Trek franchise. The handheld electronic device is capable
 * of taking environmental readings and can serve as a general communications and data telemetry device. The goal of this personal project is to 
-* prototype a functioning handheld environmental scanner inspired by the device shown on television. The most recent protoype-in-progress is shown in 
+* build a functioning handheld environmental scanner inspired by the device shown on television. The most recent protoype-in-progress is shown in 
 * the photo below.
 *
-* <img src="https://raw.githubusercontent.com/jkochavi/Portfolio/master/Images/img1.png?token=ANAJLJHP2E2BEJPINXJKSRLBJZD6S" style="width:600px;">
+* <img src="https://raw.githubusercontent.com/jkochavi/Portfolio/master/Images/img1.png?token=ANAJLJHP2E2BEJPINXJKSRLBJZD6S" style="width:300px;">
 *
 * @author Jordan Kochavi
 * @date September 24, 2021
