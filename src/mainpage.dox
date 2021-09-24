@@ -2,6 +2,31 @@
 * @author Jordan Kochavi
 * @mainpage
 *
+* @section s_intro Introduction
+* On this page, you will find links to the support documentation and writeups for multiple personal projects, along with my senior project. The current 
+* projects posted here are:
+*
+*   * Senior Project: Hydraulically Powered Vehicle (April 2020 - April 2021)
+*   * ESP32 Tricorder (Ongoing)
+*   * Polar Pen Plotter (Ongoing)
+*
+* @section s_fpvc Hydraulically Powered Vehicle
+* The National Fluid Power Association (NFPA) is a collection of fluid power companies across the United States. The NFPA sponsors an annual
+* Fluid Powered Vehicle Challenge, in which colleges across the country compete to design and race a vehicle that receives human power input to 
+* a hydraulic propulsion circuit. A typical hydraulic propusion circuit includes a pump, motor, reservoir, and accumulator. The reservoir is an 
+* atmospheric container from which hydraulic fluid is drawn. The accumulator is a bladder pressure vessel that can be pressurized by pumping fluid
+* into it, and can be discharged to propel the vehicle. The final vehicle is shown in the photo below.
+*
+* <img src="https://raw.githubusercontent.com/jkochavi/Fluid-Power-Controller/master/wiki_Support_Files/vehicle2.png" style="width:600px;">
+*
+* @section s_tricorder ESP32 Tricorder
+* The Tricorder is one of the most developed technological concepts produced by the Star Trek franchise. The handheld electronic device is capable
+* of taking environmental readings and can serve as a general communications and data telemetry device. The goal of this personal project is to 
+* prototype a functioning handheld environmental scanner inspired by the device shown on television. The most recent protoype-in-progress is shown in 
+* the photo below.
+*
+* <img src="https://raw.githubusercontent.com/jkochavi/Portfolio/master/Images/img1.png?token=ANAJLJHP2E2BEJPINXJKSRLBJZD6S" style="width:600px;">
+*
 * @author Jordan Kochavi
 * @date September 24, 2021
 */
