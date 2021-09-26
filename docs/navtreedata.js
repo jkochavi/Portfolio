@@ -27,7 +27,8 @@ var NAVTREE =
   [ "Jordan Kochavi's Project Portfolio", "index.html", [
     [ "Introduction", "index.html#s_intro", null ],
     [ "Hydraulically Powered Vehicle", "index.html#s_fpvc", null ],
-    [ "ESP32 Tricorder", "index.html#s_tricorder", null ]
+    [ "ESP32 Tricorder", "index.html#s_tricorder", null ],
+    [ "Polar Pen Plotter", "index.html#s_plotter", null ]
   ] ]
 ];
 
