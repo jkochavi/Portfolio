@@ -15,7 +15,8 @@
 * Fluid Powered Vehicle Challenge, in which colleges across the country compete to design and race a vehicle that receives human power input to 
 * a hydraulic propulsion circuit. A typical hydraulic propusion circuit includes a pump, motor, reservoir, and accumulator. The reservoir is an 
 * atmospheric container from which hydraulic fluid is drawn. The accumulator is a bladder pressure vessel that can be pressurized by pumping fluid
-* into it, and can be discharged to propel the vehicle. The final vehicle is shown in the photo below.
+* into it, and can be discharged to propel the vehicle. The final vehicle is shown in the photo below. Detailed information about the mechatronics
+* system on the vehicle is located <a href="https://jkochavi.github.io/fpvc_index.html">here</a>.
 *
 * <img src="https://raw.githubusercontent.com/jkochavi/Fluid-Power-Controller/master/wiki_Support_Files/vehicle2.png" style="width:600px;">
 *
